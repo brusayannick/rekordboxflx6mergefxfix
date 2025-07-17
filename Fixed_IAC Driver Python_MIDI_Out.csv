@@ -1,0 +1,13 @@
+@file,1,IAC Driver Python_MIDI_Out
+MFX1Abort,,Button,942E,,,,,,,,,,,
+MFX1On,,Button,9431,,,,,,,,,,,
+MFX2Abort,,Button,952E,,,,,,,,,,,
+MFX2On,,Button,9531,,,,,,,,,,,
+NoFunction,,Button,842E,,,,,842E,,,,,,
+NoFunction,,Button,8431,,,,,8431,,,,,,
+NoFunction,,Button,,,,,,842D,,,,,,
+NoFunction,,Button,,,,,,832E,,,,,,
+NoFunction,,Button,,,,,,942E,,,,,,
+NoFunction,,Button,,,,,,9431,,,,,,
+NoFunction,,Button,,,,,,8432,,,,,Min=127;Max=64;,
+NoFunction,,Button,,,,,,832D,,,,,Min=127;Max=64;,
